@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+#### When the entry is not made according to the determined rules, warning dialogs pop up on  modal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+### sources
+[React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)-Maximilian Schwarzmüller
+<br/>
+[Reactstrap](https://reactstrap.github.io/?path=/story/home-installation--page)
+<br/>
+[Bootstrap v5.2](https://getbootstrap.com/)
+ 
+
 
 ## Available Scripts
 
