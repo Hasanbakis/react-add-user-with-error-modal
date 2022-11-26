@@ -1,6 +1,10 @@
 #### When the entry is not made according to the determined rules, warning dialogs pop up on  modal
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/78306654/204075920-8f36d923-efcc-42c1-a26e-97ab9034256d.PNG" width="500" height="300" alt="accessibility text">
+  <img src="https://user-images.githubusercontent.com/78306654/204075940-9ca7afff-1005-4c78-852a-f612a262aea5.PNG" width="500" height="300" alt="accessibility text">
+    <img src="https://user-images.githubusercontent.com/78306654/204075953-f629c144-fa4e-435e-8bf8-7087b8cf2486.PNG" width="500" height="300" alt="accessibility text">
+</p>
 
 ### sources
 [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)-Maximilian Schwarzmüller
