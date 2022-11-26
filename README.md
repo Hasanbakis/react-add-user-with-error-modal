@@ -1,4 +1,4 @@
-#### When the entry is not made according to the determined rules, warning dialogs pop up on  modal
+## Modal Dialog in React
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/78306654/204075920-8f36d923-efcc-42c1-a26e-97ab9034256d.PNG" width="500" height="300" alt="accessibility text">
